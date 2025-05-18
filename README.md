@@ -1,21 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5GqajVEC)
-# MSDS-597 Project
+# Rutgers Bus Network Optimization
 
-Group: 15
+This project mainly focuses on addressing the bus bunching issue observed in the bus network at Rutgers University - New Brunswick. Bunched buses along each route will receive wait time suggestions depending on the severity of bunching to evenly space out the buses along the route and thus reduce wait times on average for students and commuters using the bus service.
 
-## Project summary
-
-Our project summary can be found:
-
-- as a notebook on `nbviewer`
-
-https://nbviewer.org/gist/YOUR-GH-USERNAME/????????????????????????/
-
-OR
-
-- as a website:
-
-https://moran-teaching.github.io/project-repo/????????????
 
 ## Accessing data
 
